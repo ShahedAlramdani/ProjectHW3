@@ -24,7 +24,7 @@ public class HW4 {
 		} else {
 			System.out.println("incorrect");
 
+		}
 
 	}
-
 }
